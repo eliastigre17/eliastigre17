@@ -13,7 +13,7 @@
 - Java
 - and more!
 
-### 💻 I'm actually looking for my first job experience
+### 💻 I'm actually looking for my first job experience in web fullstack development
 - I'm 18y
 - My birthday is on 17th june
 
@@ -31,6 +31,7 @@ feel free to contact me! <br/>
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/tigrelias/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eliaslinkedin17@gmail.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/12173922231?si=4dac6b1620094b98)
+[![Discord].(https://img.shields.io/badge/discord-elias%237044-lightgrey)
 
 <!-- 
 ### I really like super heroes and my fav is batman!
