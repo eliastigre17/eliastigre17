@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**eliastigre17/eliastigre17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 
-Here are some ideas to get you started:
+<!-- # 👀 Hi mate! 👋🏻 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🤔 About me:
+
+## Hi! I'm Elias Tigre
+
+### ✔️ I'm currently studying (at Growdev)
+- JavaScript (My fav <3)
+- CSS
+- Java
+- and more!
+
+### 💻 I'm actually looking for my first job experience
+- I'm 18y
+- My birthday is on 17th june
+
+### 💭 My hobbies
+- Play games 🎮
+- Manga, Anime and films🎬
+- Play instruments 🎸
+- and code 💻
+<!-- 
+### I really like super heroes and my fav is batman!
+
+
+
+
+---
+
+
+
+
+⭐️ From [rodrigograca31](https://github.com/rodrigograca31)
