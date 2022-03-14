@@ -24,7 +24,7 @@
 - and code 💻
 
 ### My socials:
-feel free to contact me! <br/>
+Feel free to contact me! <br/>
 <br/>
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/eliastigre17)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elias-tigre-09a656234/)
@@ -33,7 +33,7 @@ feel free to contact me! <br/>
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/12173922231?si=4dac6b1620094b98)
 <img src="https://img.shields.io/badge/discord-elias%237044-lightgrey">
 <!-- 
-### I really like super heroes and my fav is batman!
+### I really enjoy super heroes and my fav is batman!
 
 
 
