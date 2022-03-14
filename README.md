@@ -1,5 +1,5 @@
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 <!-- # 👀 Hi mate! 👋🏻 -->
 
@@ -33,4 +33,4 @@
 
 
 
-⭐️ From [rodrigograca31](https://github.com/rodrigograca31)
+
